@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hb62VXklDqutcuAHJZ/XZQ30gXyNXqSCb0u2WCV0+vb4X8cV9PLSwiYzLUn1x1Q05iTqWPbUkbxc0mUCqT0IZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\90538\\Desktop\\Tetris-master\\Tetris.Game\\Tetris.Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\90538\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\90538\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

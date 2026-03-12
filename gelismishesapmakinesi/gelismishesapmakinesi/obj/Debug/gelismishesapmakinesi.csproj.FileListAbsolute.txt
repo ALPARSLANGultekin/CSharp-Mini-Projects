@@ -1,0 +1,10 @@
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\gelismishesapmakinesi\gelismishesapmakinesi\bin\Debug\gelismishesapmakinesi.exe.config
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\gelismishesapmakinesi\gelismishesapmakinesi\bin\Debug\gelismishesapmakinesi.exe
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\gelismishesapmakinesi\gelismishesapmakinesi\bin\Debug\gelismishesapmakinesi.pdb
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\gelismishesapmakinesi\gelismishesapmakinesi\obj\Debug\gelismishesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\gelismishesapmakinesi\gelismishesapmakinesi\obj\Debug\gelismishesapmakinesi.Form1.resources
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\gelismishesapmakinesi\gelismishesapmakinesi\obj\Debug\gelismishesapmakinesi.Properties.Resources.resources
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\gelismishesapmakinesi\gelismishesapmakinesi\obj\Debug\gelismishesapmakinesi.csproj.GenerateResource.cache
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\gelismishesapmakinesi\gelismishesapmakinesi\obj\Debug\gelismishesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\gelismishesapmakinesi\gelismishesapmakinesi\obj\Debug\gelismishesapmakinesi.exe
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\gelismishesapmakinesi\gelismishesapmakinesi\obj\Debug\gelismishesapmakinesi.pdb
